@@ -1,7 +1,3 @@
-Here’s a comprehensive `README.md` file for your `dilogger` package. It includes installation instructions, usage examples, API documentation, and other relevant details.
-
----
-
 # Dilogger
 
 A lightweight, customizable logging utility for Node.js applications. This package provides a simple and flexible way to log messages to a file with timestamps, caller information, and support for multiple log levels (`INFO`, `DEBUG`, `WARNING`, `ERROR`). It also supports custom time zones for log timestamps.

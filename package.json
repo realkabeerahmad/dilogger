@@ -1,0 +1,28 @@
+{
+  "name": "dilogger",
+  "version": "0.0.4",
+  "description": "A simple file based logging utility for Node.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/realkabeerahmad/dilogger.git"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "nodejs",
+    "logging"
+  ],
+  "author": "kabeer.exe",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
